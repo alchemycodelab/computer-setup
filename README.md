@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/478864/30506648-6e230f40-9a32-11e7-8a6b-a3cd3f723ac3.png)
+
 Discover Code 101 Workshop Setup
 -----------------------
 
