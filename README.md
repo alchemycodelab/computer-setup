@@ -30,5 +30,6 @@ Based on your type of computer, follow the following instructions:
   - [Windows](prework/windows/1_terminal.md)
 
 Following completion of the setup work, you should:
- - Have a terminal with a Git compatible prompt
- - Be able to receive a valid response when typing "git --version"
+ - Have a GitHub account
+ - Open a terminal with a Git compatible prompt
+ - Run vscode to edit and create code
