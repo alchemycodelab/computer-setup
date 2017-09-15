@@ -1,15 +1,15 @@
 ![image](https://user-images.githubusercontent.com/478864/30506648-6e230f40-9a32-11e7-8a6b-a3cd3f723ac3.png)
 
-Discover Code 101 Workshop Setup
+Computer Setup
 -----------------------
 
-Before the workshop, you'll need to setup your computer. This means you will need to download and install all the tools necessary to write code. These guides may contain a lot of terms that you are unfamiliar with. Bear with us, follow along, and see if you can set up your computer so that you're fully ready to go for the workshop. 
+Before your first workshop or class, you'll need to setup your computer. This means you will need to download and install all the tools necessary to write code. These guides may contain a lot of terms that you are unfamiliar with. Bear with us, follow along, and see if you can set up your computer so that you're fully ready to go for the workshop. 
 
-**If you encounter any problems with these guides, please come in early at 1:00PM so that we can help you setup your computer.**
+**If you encounter any problems with these guides, please come in a half-hour early to your workshop or class so that we can help you setup your computer.**
 
 ### Setup
 
-##### 1. Ensure your laptop up to the task of coding
+##### 1. Ensure your laptop is up to the task of coding
 
   - Is virus and malware free
   - Uses the latest, stable, updated version of its operating system
