@@ -29,7 +29,9 @@ Based on your type of computer, follow the following instructions:
   - [Ubuntu](prework/ubuntu/1_terminal.md)
   - [Windows](prework/windows/1_terminal.md)
 
+### Checklist
+
 Following completion of the setup work, you should:
- - Have a GitHub account
- - Open a terminal with a Git compatible prompt
- - Run vscode to edit and create code
+- Have a GitHub account
+- Open a terminal with a Git compatible prompt
+- Run vscode to edit and create code
