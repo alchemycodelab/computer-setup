@@ -1,4 +1,4 @@
-Discover Code 101: Web Applications
+Discover Code 101 Workshop Setup
 -----------------------
 
 Before the workshop, you'll need to setup your computer. This means you will need to download and install all the tools necessary to write code. These guides may contain a lot of terms that you are unfamiliar with. Bear with us, follow along, and see if you can set up your computer so that you're fully ready to go for the workshop. 
