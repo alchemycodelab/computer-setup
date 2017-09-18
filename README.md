@@ -29,9 +29,19 @@ Based on your type of computer, follow the following instructions:
   - [Ubuntu](prework/ubuntu/1_terminal.md)
   - [Windows](prework/windows/1_terminal.md)
 
+##### 4. Download and Install Ryver
+
+We use an app called Ryver to share resources, chat, and collaborate before, during, and after your workshop or class. 
+You can either use the Ryver web app (codefellowspdx.ryver.com) or use the following link to download the installable app:
+
+[Ryver Downloads](http://ryver.com/downloads/).
+
+You’ll get an email invite from us to join your workshop or class channel. (You won't be able to join prior to being invited)
+
 ### Checklist
 
 Following completion of the setup work, you should:
 - Have a GitHub account
 - Open a terminal with a Git compatible prompt
 - Run vscode to edit and create code
+- Be able to access Ryver
