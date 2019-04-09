@@ -35,4 +35,3 @@ Following completion of the setup work, you should:
 - Have a GitHub account
 - Open a terminal with a Git compatible prompt
 - Run vscode to edit and create code
-- Be able to access Ryver
