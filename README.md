@@ -3,23 +3,23 @@
 Computer Setup
 -----------------------
 
-Before your first workshop or class, you'll need to setup your computer. This means you will need to download and install all the tools necessary to write code. These guides may contain a lot of terms that you are unfamiliar with. Bear with us, follow along, and see if you can set up your computer so that you're fully ready to go for the workshop. 
+Before your first day at Alchemy, you will need to set up your computer. This means that you will need to download and install all the tools necessary for writing code. These guides may contain a lot of terms that you are unfamiliar with. Please do all of the steps thoroughly and to the best of your ability. 
 
-**If you encounter any problems with these guides, please come in a half-hour early to your workshop or class so that we can help you setup your computer.**
+**If you encounter any problems with these guides, please come in a half-hour early to your fist day at Alchemy so that we can help you set up your computer.**
 
 ### Setup
 
-##### 1. Ensure your laptop is up to the task of coding
+##### 1. Ensure that your laptop:
 
   - Is virus and malware free
-  - Uses the latest, stable, updated version of its operating system
+  - Uses the most up-to-date, stable version of its operating system
   - Has a functioning screen, keyboard, and trackpad
   - Has plenty of free hard drive space and memory
   - Can reliably connect to wireless networks
 
 ##### 2. Sign up for a GitHub account
 
-Head on over to https://github.com/ and sign up. (It's free!, there is no cost for a developer account)
+Head on over to https://github.com/ and sign up. (It's free: there is no cost for a developer account.)
 
 ##### 3. Complete the setup guide for your computer's operating system
 
@@ -31,7 +31,7 @@ Based on your type of computer, follow the following instructions:
 
 ### Checklist
 
-Following completion of the setup work, you should:
+Following completion of this setup work, you should:
 - Have a GitHub account
-- Open a terminal with a Git compatible prompt
-- Run vscode to edit and create code
+- Be able to open a terminal with a Git-compatible prompt
+- Be able to run vscode to edit and create code
