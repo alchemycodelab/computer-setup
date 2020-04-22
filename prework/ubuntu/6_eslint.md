@@ -1,7 +1,7 @@
 # Setup ESLint
 ===
 
-ESLint is an amazing program that basically acts as a kind of 'spell check' for your code, underlining thing in red squiggles if they don't look quite right and giving you hints about how to fix them, like so:
+ESLint is an amazing program that basically acts as a kind of 'spell check' for your code, underlining things in red squiggles if they don't look quite right and giving you hints about how to fix them, like so:
 
 ![](../linting.png)
 
@@ -40,7 +40,7 @@ If above fails (for now):
 
 ### Congratulations!
 
-Type `eslint -v` in your git/bash console. If it shows you some numbers, take a screenshot screenshot to submit as proof that you got this working
+Type `eslint -v` in your terminal. If it shows you some numbers, take a screenshot screenshot to submit as proof that you got this working
 
 It should look something like this:
 

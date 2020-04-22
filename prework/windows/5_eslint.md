@@ -1,7 +1,7 @@
 # Setup ESLint
 ===
 
-ESLint is an amazing program that basically acts as a kind of 'spell check' for your code, underlining thing in red squiggles if they don't look quite right and giving you hints about how to fix them, like so:
+ESLint is an amazing program that basically acts as a kind of 'spell check' for your code, underlining things in red squiggles if they don't look quite right and giving you hints about how to fix them, like so:
 
 ![](../linting.png)
 
