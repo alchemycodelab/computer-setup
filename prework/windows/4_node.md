@@ -13,5 +13,4 @@ It should look something like this:
 
 ![](../node.png)
 
-
-### [⇐ Previous](3_git.md) | [README ⇒](../../../../)
+### [⇐ Previous](3_git.md) |  [Next ⇒](5_eslint.md)
