@@ -7,13 +7,13 @@ To install Node (a special version of Javascript that can, among other things, r
 1. Run this command in your terminal to install NVM `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash`
 
 1. Close your terminal and open it back up again.
-1. Type `nvm install node`. If this seems to do something cool, take a screenshot.
+1. Type `nvm install node`. If this seems to do something cool, take a screenshot screenshot to submit as proof that you got this working
 
 It should look something like this:
 
 ![](../nvm.png)
 
-1. Type `node -v` and take a screenshot. If it shows you some numbers, take a screenshot to submit.
+1. Type `node -v` and take a screenshot. If it shows you some numbers, take a screenshot to submit as proof that you got this working.
 
 It should look something like this:
 
