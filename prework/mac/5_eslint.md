@@ -1,7 +1,13 @@
-Setup ESLint
+# Setup ESLint
 ===
 
+ESLint is an amazing program that basically acts as a kind of 'spell check' for your code, underlining thing in red squiggles if they don't look quite right and giving you hints about how to fix them, like so:
+
+![](../linting.png)
+
 ## Check Node Version
+
+We will use node to install Eslint, so make sure your Node is working.
 
 From terminal:
 
@@ -27,6 +33,7 @@ If above fails (for now):
 
 (Skip if above failed)
 
+* In VSCode, open the extensions panel. `Shift + CMD (or Ctrl) + X` should do the trick.
 * Search for "ESLint", author is Dirk Baeumer
 * `Install`
 * `Reload`
