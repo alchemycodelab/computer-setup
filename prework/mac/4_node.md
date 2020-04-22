@@ -8,7 +8,17 @@ To install Node (a special version of Javascript that can, among other things, r
 
 1. Close your terminal and open it back up again.
 1. Type `nvm install node`. If this seems to do something cool, take a screenshot.
+
+It should look something like this:
+
+![](nvm.png)
+
 1. Type `node -v` and take a screenshot. If it shows you some numbers, take a screenshot to submit.
+
+
+It should look something like this:
+
+![](node.png)
 
 
 ### Troubleshooting
