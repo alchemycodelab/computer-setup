@@ -67,4 +67,4 @@ curl -fsSL http://git.io/Ggdljw | sh
 
 ### Congratulations!
 
-### [⇐ Previous](3_vscode.md) |  [⇐ Previous](5_node.md)
+### [⇐ Previous](3_vscode.md) | [Next ⇒](5_node.md)
