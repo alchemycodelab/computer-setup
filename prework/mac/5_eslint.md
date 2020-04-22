@@ -33,7 +33,7 @@ If above fails (for now):
 
 ### Congratulations!
 
-Type `node -v` in your git/bash console. If it shows you some numbers, take a screenshot screenshot to submit as proof that you got this working
+Type `eslint -v` in your git/bash console. If it shows you some numbers, take a screenshot screenshot to submit as proof that you got this working
 
 It should look something like this:
 
