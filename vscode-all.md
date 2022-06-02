@@ -12,6 +12,7 @@
    
    - Or inspect the location by right-clicking (or control clicking) the Visual Studio Code icon in your system tray. Then select "Show in Finder" 
    <img src="https://user-images.githubusercontent.com/29679939/171719435-16fe0eab-a761-43b1-96cf-89a968bfc474.png" width="400" />
+   
    - If it's not in the Applications folder, find where your VSCode icon is located and move it into the Applications folder.
 
 #### To validate run this command in your terminal:
