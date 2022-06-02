@@ -12,6 +12,15 @@ git --version
 
 ![](assets/git-version.png)
 
+# Install Git Credential Manager
+```
+$ brew tap microsoft/git
+$ brew install --cask git-credential-manager-core
+```
+
+* The next time you clone an HTTPS URL that requires authentication, Git will prompt you to log in using a browser window.
+* Once you've authenticated successfully, your credentials are stored in the macOS keychain and will be used every time you clone an HTTPS URL. Git will not require you to type your credentials in the command line again unless you change your credentials.
+
 What is git:
 * By far, the most widely used modern version control system in the world today is Git. Git is a mature, actively maintained open source project originally developed in 2005 by Linus Torvalds, the famous creator of the Linux operating system kernel. A staggering number of software projects rely on Git for version control, including commercial projects as well as open source. Developers who have worked with Git are well represented in the pool of available software development talent and it works well on a wide range of operating systems and IDEs (Integrated Development Environments).
 
