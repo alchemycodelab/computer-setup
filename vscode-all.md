@@ -16,7 +16,7 @@
    - If it's not in the Applications folder, find where your VSCode icon is located and move it into the Applications folder.
 
 #### To validate run this command in your terminal:
- * Note  `Mac` users have an additional step to setting up. You must first finish that step located on [Read me file](README.md), then you can run this command to validate that you have successfully setup `Visual Code Studio`.
+ * Note  `Mac` users have an additional step to setting up. You must first [setup the 'code' command](vscode-mac.md), then you can run this command to validate that you have successfully setup `Visual Code Studio`.
 ```
  code --version
 ```
